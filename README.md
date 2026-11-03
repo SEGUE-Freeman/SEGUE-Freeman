@@ -1,26 +1,40 @@
 # Yao Freeman Segue
-### Data analysis · Applied AI · Software projects
 
-I build practical projects at the intersection of data analysis, applied AI and software development. My portfolio documents hands-on work with exploratory data analysis, data quality, spreadsheet automation, web APIs and AI application prototypes.
+### Data Analysis · Python · Excel · Applied AI
 
-## Areas of practice
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+</p>
 
-- **Data analysis:** Python, pandas, NumPy, data cleaning, exploratory analysis and visualization with Matplotlib and Seaborn.
-- **Applied AI:** experiments with language models, retrieval-augmented generation and speech-analysis workflows.
-- **Application development:** FastAPI backends and Next.js interfaces, including an early-stage hospital dashboard prototype.
-- **Spreadsheet automation:** Excel formulas and structured workbooks for practical data workflows.
+> **I turn data questions into clear analysis, useful visualizations, and practical tools.**
 
-These areas are represented in the repositories below; they describe project experience and ongoing practice, not claims of production or clinical deployment.
+This profile is my data workspace: exploratory analysis, data quality, spreadsheet projects, and applied AI prototypes. The projects show hands-on practice; they are not claims of production or clinical deployment.
 
-## Selected projects
+## 📊 Data & Analytics
 
-- [AI Job Market Audit](https://github.com/SEGUE-Freeman/ai-job-market-audit) — exploratory data-quality review of a dataset about AI and occupations.
-- [Eloquentia](https://github.com/SEGUE-Freeman/eloquentia) — prototype pipeline for structured feedback on improvised speaking.
-- [PulseAI Dashboard](https://github.com/SEGUE-Freeman/pulseai-dashboard) — FastAPI and Next.js hospital dashboard prototype.
-- [Excel Projects](https://github.com/SEGUE-Freeman/Excel-projects) — spreadsheet exercises, including payroll and sales analysis.
+- **Python:** pandas, NumPy, data cleaning, exploratory analysis
+- **Visualization:** Matplotlib, Seaborn, Excel dashboards
+- **Analysis habits:** question the data source, check data quality, explain limitations, make results reproducible
 
-## Working approach
+## 🔎 Featured Data Projects
 
-I value clear problem framing, careful inspection of data, reproducible analysis and honest communication of limitations. I am interested in projects where data and AI can support useful, understandable tools.
+| Project | What you’ll find |
+| --- | --- |
+| [AI Job Market Audit](https://github.com/SEGUE-Freeman/ai-job-market-audit) | Exploratory data-quality review of an AI and occupations dataset, with careful interpretation of what the data can and cannot show. |
+| [Excel Projects](https://github.com/SEGUE-Freeman/Excel-projects) | Payroll and sales exercises, workbooks, and dashboard examples. |
+
+## 🤖 Applied AI & Software
+
+| Project | Focus |
+| --- | --- |
+| [Eloquentia](https://github.com/SEGUE-Freeman/eloquentia) | Speech-analysis prototype separating reproducible metrics from LLM feedback. |
+| [PulseAI Dashboard](https://github.com/SEGUE-Freeman/pulseai-dashboard) | FastAPI and Next.js dashboard prototype for hospital information; not validated for clinical use. |
+
+## 🧭 How I Work
+
+I start with the question, inspect the data before drawing conclusions, and make assumptions and limitations visible. I’m interested in useful data products that people can understand and trust.
 
 [LinkedIn](https://www.linkedin.com/in/yao-freeman-segue-096a302b3)
