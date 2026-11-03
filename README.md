@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,35:1C7C8C,70:31C48D,100:9EF01A&height=230&section=header&text=YAO%20FREEMAN%20SEGUE&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYST%20%E2%80%A2%20PYTHON%20%E2%80%A2%20EXCEL%20%E2%80%A2%20APPLIED%20AI&descAlignY=59&descSize=17" alt="Yao Freeman Segue — Data Analyst, Python, Excel, Applied AI" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,35:1C7C8C,70:31C48D,100:9EF01A&height=230&section=header&text=YAO%20FREEMAN%20SEGUE&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYST%20%E2%80%A2%20PYTHON%20%E2%80%A2%20EXCEL%20%E2%80%A2%20APPLIED%20AI&descAlignY=59&descSize=17" alt="Yao Freeman Segue - Data Analyst, Python, Excel, Applied AI" />
 
 <a href="https://github.com/SEGUE-Freeman"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=31C48D&center=true&vCenter=true&width=720&lines=Turning+raw+data+into+clear+decisions.;Explore.+Analyze.+Visualize.+Build.;Welcome+to+my+data+workspace." alt="Animated introduction" /></a>
 
@@ -15,7 +15,7 @@
 
 ## **DATA, MADE USEFUL.**
 
-I explore datasets, uncover patterns, and turn findings into clear visual stories and practical tools. This is my hands-on portfolio across **data analysis, spreadsheets, and applied AI**—with the work, methods, and limitations kept visible.
+I explore datasets, uncover patterns, and turn findings into clear visual stories and practical tools. This is my hands-on portfolio across **data analysis, spreadsheets, and applied AI**-with the work, methods, and limitations kept visible.
 
 <div align="center">
 
@@ -28,7 +28,7 @@ I explore datasets, uncover patterns, and turn findings into clear visual storie
 ## ✦ FEATURED DATA WORK
 
 ### 🔎 [AI Job Market Audit](https://github.com/SEGUE-Freeman/ai-job-market-audit)
-An exploratory audit of an AI-and-jobs dataset: inspect quality, surface patterns, and interpret results with care. **A clear look at what the data can—and cannot—say.**
+An exploratory audit of an AI-and-jobs dataset: inspect quality, surface patterns, and interpret results with care. **A clear look at what the data can-and cannot-say.**
 
 **PYTHON · PANDAS · DATA QUALITY · EXPLORATORY ANALYSIS**
 
