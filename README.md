@@ -15,10 +15,9 @@ These areas are represented in the repositories below; they describe project exp
 ## Selected projects
 
 - [AI Job Market Audit](https://github.com/SEGUE-Freeman/ai-job-market-audit) — exploratory data-quality review of a dataset about AI and occupations.
-- [Togo DataLab Technical Test](https://github.com/SEGUE-Freeman/TEST-TECHNIQUE-TOGO-DATALAB) — data analyst assessment project.
 - [Eloquentia](https://github.com/SEGUE-Freeman/eloquentia) — prototype pipeline for structured feedback on improvised speaking.
 - [PulseAI Dashboard](https://github.com/SEGUE-Freeman/pulseai-dashboard) — FastAPI and Next.js hospital dashboard prototype.
-- [Excel Projects](https://github.com/SEGUE-Freeman/Excel-projects) — spreadsheet exercises, including a payroll workbook.
+- [Excel Projects](https://github.com/SEGUE-Freeman/Excel-projects) — spreadsheet exercises, including payroll and sales analysis.
 
 ## Working approach
 
