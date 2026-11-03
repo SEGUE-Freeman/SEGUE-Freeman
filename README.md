@@ -25,6 +25,18 @@ I explore datasets, uncover patterns, and turn findings into clear visual storie
 
 </div>
 
+## 👋 ABOUT ME
+
+**Data Analyst** based in **Lomé, Togo**, working with Python, pandas, Excel, and data visualization to turn raw information into clear, useful insights.
+
+- **Education:** Licence in AI & Big Data, École Polytechnique de Lomé (now École Nationale Polytechnique, Campus de Lomé)
+- **Internship experience:** Togo AI Lab · Mawaba Technologies
+- **Languages:** French · English · Eʋegbe
+
+## 📬 CONTACT
+
+<a href="mailto:yaofreemansegue@gmail.com">Email</a> · <a href="https://wa.me/22879869008">WhatsApp</a> · <a href="https://www.linkedin.com/in/yao-freeman-segue-096a302b3">LinkedIn</a>
+
 ## ✦ FEATURED DATA WORK
 
 ### 🔎 [AI Job Market Audit](https://github.com/SEGUE-Freeman/ai-job-market-audit)
